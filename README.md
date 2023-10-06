@@ -11,8 +11,13 @@ An inconspicuous student at Winston Churchill. I love Aviation, Engineering, and
 * Leadership
 * First Aid
 ## Education
+![ASiT9X_C_400x400](https://github.com/Eren-uyar/CV/assets/146925721/ad557573-6512-461f-a288-c41f32b6106a)
+
 **DNB Mention Très Bien**
 * Collège Francais Billingue de Londres, 2012-2022
 ## Experience
 **RAF Air Cadets**
+
+![download](https://github.com/Eren-uyar/CV/assets/146925721/bf88cd64-8b9d-4573-9a11-f4ce6f2865f2)
+
 * Corporal at 9F Islington Squadron
