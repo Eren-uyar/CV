@@ -1,3 +1,1 @@
-Name: Eren Rafael Uyar
-Email: erenruyar@gmail.com
-tbc
+https://erenspace.w3spaces.com/CV.html
