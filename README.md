@@ -1,4 +1,5 @@
 # Eren Uyar
+![myAvatar](https://github.com/Eren-uyar/CV/assets/146925721/d1d0fe9a-eece-49bf-92b3-3a83ad45cbf2)
 * LIL Alumni
 * LinkedIn: www.linkedin.com/in/ErenRafaelUyar
 ## Summary
