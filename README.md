@@ -14,6 +14,4 @@ An inconspicuous student at Winston Churchill. I love Aviation, Engineering, and
 * Collège Francais Billingue de Londres, 2012-2022
 ## Experience
 **RAF Air Cadets**
-![alt text](![image](https://github.com/Eren-uyar/CV/assets/146925721/d30c0ea1-8568-4794-a917-e853d603b501)
-)
 * Corporal at 9F Islington Squadron
