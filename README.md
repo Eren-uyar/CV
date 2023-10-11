@@ -22,5 +22,5 @@ An inconspicuous student at Winston Churchill. I love Aviation, Engineering, and
 
 * Corporal at 9F Islington Squadron
 
-## Decimal to Binary Converter
-(https://github.com/Eren-uyar/CV/blob/main/Binary.html)
+## Projects
+* [Decimal Binary Converter](https://github.com/Eren-uyar/CV/Binary.html)
